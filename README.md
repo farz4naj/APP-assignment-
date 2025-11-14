@@ -11,3 +11,7 @@ This week’s assignment focused on practicing basic Python output formatting us
 
 This assignment focuses on creating and working with Python variables. I practiced storing values such as the current day, year, and my age, performing simple arithmetic to calculate my birth year, and printing formatted output to the user. The goal was to understand how variables, data types, and basic print statements work in Python.
 
+📌 Assignment Description (3rd week)
+<img width="1600" height="900" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/db00512d-ad4c-41cd-836b-1ffc842f2826" />
+
+In this assignment, I learned how to define different types of variables in Python and how to use arithmetic operations to calculate new values. I also practiced constructing clear output messages using the print() function, experimenting with commas, string concatenation, and formatting to display variables in a readable way. This helped reinforce the basics of Python syntax and variable handling.
