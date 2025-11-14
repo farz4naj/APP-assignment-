@@ -1,6 +1,8 @@
 # Assignment 2
 # Name: Farzana Jafary
-
+# Description:
+# This program creates variables, performs a simple math calculation
+# and prints variables.
 
 
 day = "Friday"  
@@ -19,3 +21,4 @@ year_of_birth = 2025 - 21
 
 
 print("I am", age, "years old. I was born in the year", year_of_birth, ".")
+
