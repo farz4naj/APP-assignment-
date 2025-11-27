@@ -73,3 +73,4 @@ else:
     print("Number of 10 AFN:", ten)
     print("Number of 5 AFN:", five)
     print("Number of 1 AFN:", one)
+
