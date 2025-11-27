@@ -15,3 +15,8 @@ This assignment focuses on creating and working with Python variables. I practic
 <img width="1600" height="900" alt="Screenshot (77)" src="https://github.com/user-attachments/assets/db00512d-ad4c-41cd-836b-1ffc842f2826" />
 
 In this assignment, I learned how to define different types of variables in Python and how to use arithmetic operations to calculate new values. I also practiced constructing clear output messages using the print() function, experimenting with commas, string concatenation, and formatting to display variables in a readable way. This helped reinforce the basics of Python syntax and variable handling.
+
+
+ 📌 Assignment Description (4th week)
+ <img width="1600" height="900" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/5b280c7b-342b-4e4f-a867-88f5e94a85ed" />
+ A simple Python program where the user selects an item from a menu, pays with 100 AFN banknotes, and the program calculates whether the payment is enough and returns change using the largest possible Afghani denominations (50, 20, 10, 5, 1). It practices branching, user input, and arithmetic operations.
