@@ -20,3 +20,11 @@ In this assignment, I learned how to define different types of variables in Pyth
  📌 Assignment Description (4th week)
  <img width="1600" height="900" alt="Screenshot (83)" src="https://github.com/user-attachments/assets/5b280c7b-342b-4e4f-a867-88f5e94a85ed" />
  A simple Python program where the user selects an item from a menu, pays with 100 AFN banknotes, and the program calculates whether the payment is enough and returns change using the largest possible Afghani denominations (50, 20, 10, 5, 1). It practices branching, user input, and arithmetic operations.
+
+
+ 📌 Assignment Description (6th week)
+<img width="1600" height="900" alt="Screenshot (85)" src="https://github.com/user-attachments/assets/a808d3fa-7e8a-42da-abf1-26b2b00091fd" />
+This program is a small dice game that uses while loops, for loops, and the random module.
+The user picks a case, rolls a virtual D20, and earns points if the roll matches the case rules.
+The game runs 5 times and shows the final score.
+
