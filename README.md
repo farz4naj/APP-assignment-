@@ -28,3 +28,13 @@ This program is a small dice game that uses while loops, for loops, and the rand
 The user picks a case, rolls a virtual D20, and earns points if the roll matches the case rules.
 The game runs 5 times and shows the final score.
 
+
+📌 Assignment Description (final week)
+<img width="1600" height="900" alt="Screenshot (88)" src="https://github.com/user-attachments/assets/851972bc-3dd9-4e88-8bdc-ba84f6278e28" />
+Final Project – Coffee Shop
+This program shows a coffee shop menu and lets the user order drinks using loops, lists, and input checks.
+They can also choose a mystery item, and the program picks a random drink.
+All costs are added up, and if the total is more than 20 AFS, a 20% discount is applied.
+Finally, the program prints the final total.
+
+
